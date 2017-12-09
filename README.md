@@ -5,7 +5,7 @@
 * ssh-dao:（子模块）
 * ssh-service
 * ssh-web
-
+:smile: :smiley: :yum: :wink: :smirk: :relieved: :relaxed:
 ## 1 创建父工程
 1. 项目需要的依赖的信息，在父工程中定义，子模块继承过程
 2. 将各个子模块聚合到一起
